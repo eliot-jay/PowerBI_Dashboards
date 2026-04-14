@@ -1,6 +1,6 @@
 # Data Jobs Dashboard with Power BI
 
-## [View My Project Online](https://tinyurl.com/ye28nra9) 
+<!-- ## [View My Project Online](https://tinyurl.com/ye28nra9)  -->
 
 ![Dashboard Preview](/images/page1.png)
 ---

@@ -30,7 +30,7 @@ Explore the dashboards below. Each one has its own dedication README with more i
   - Drill-through Functionality  
 
 
-### [ **View Full Project 1 Details (README)** ](../PowerBI_Dashboards/data_jobs_v1/README.md)
+### [ **View Full Project 1 Details (README)** ](/data_jobs_v1/README.md)
 
 ---
 
@@ -51,7 +51,7 @@ Explore the dashboards below. Each one has its own dedication README with more i
   - Parameter Reporting Functionality and Cutomization 
 
 
-### [ **View Full Project 2 Details (README)** ](../PowerBI_Dashboards/data_jobs_v2/README.md)
+### [ **View Full Project 2 Details (README)** ](/data_jobs_v2/README.md)
 
 ---
 
